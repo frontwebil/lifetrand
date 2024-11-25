@@ -1,0 +1,19 @@
+.update {
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(235, 233, 188);
+  border-radius: 10px;
+  margin: 10px 15px 0px;
+  padding: 7px 10px;
+  background-color: rgb(254, 251, 217);
+  display: flex;
+  gap: 5px;
+}
+.update-image {
+  width: 25px;
+  height: 25px;
+}
+.update-text {
+  line-height: 1.6;
+  font-size: 17px;
+}
